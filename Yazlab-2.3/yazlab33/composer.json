@@ -1,0 +1,6 @@
+{
+    "name": "emren/yazlab33",
+    "require": {
+        "smalot/pdfparser": "^2.0"
+    }
+}
